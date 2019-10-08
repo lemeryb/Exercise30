@@ -2,7 +2,7 @@
 # Date: 10/7/19
 # Author: Benjamin Lemery
 # This program demonstrates the use of if and else statements.
-
+# Kitties
 people = 30
 cars = 40
 trucks = 15
